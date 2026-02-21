@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
-theme: jekyll-theme-slate
 ---
 
 Hi, I'm **Srivatsa Gunturi**—a design engineer with **9 years of experience** in ASIC/IP RTL design, micro-architecture, and SoC integration.
