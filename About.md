@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm **Srivatsa Gunturi**—a design engineer with **9 years of experience** in ASIC/IP RTL design, micro-architecture, and SoC integration.
+Hi, I'm **Srivatsa**—a design engineer with **9 years of experience** in ASIC/IP RTL design, micro-architecture, and SoC integration.
 
-I'm at **Intel Corporation** (Santa Clara), where I'm an **IP Logic Design Engineer** in Security IP: RTL and micro-architecture for PUF, key exchange, ECC, TRNG, and related features; IP integration and pre/post-silicon validation. Before that I was a **SoC Design Engineer** in FPGA Transceivers, developing SystemVerilog models for hardened transceivers and integrating them into Quartus.
+I'm at **Intel Corporation** (Santa Clara), where I'm an **IP Logic Design Engineer** in Client Compunting group working in Security IP team. Before that I was a **SoC Design Engineer** in Programmable Solutions Group working on FPGA transcievers.
 
-**MS in Electrical Engineering** (VLSI), UT Dallas · **B.Tech in ECE**, Amrita Vishwa Vidyapeetham. Reach me at **skk.gunturi@gmail.com** or [LinkedIn](https://www.linkedin.com/in/srivatsa-gunturi).
+I have an **MS in Electrical Engineering** (VLSI) from the University of Texas, Dallas and  **B.Tech in Electronics and Communication Engieering**, from Amrita Vishwa Vidyapeetham, India. Reach me on [LinkedIn](https://www.linkedin.com/in/srivatsa-gunturi).
