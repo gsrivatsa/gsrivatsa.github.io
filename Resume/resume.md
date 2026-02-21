@@ -7,7 +7,7 @@ permalink: /resume/
 ## Contact
 
 - **Name**: Srivatsa Gunturi  
-- **LinkedIn**: [linkedin.com/in/srivatsa-gunturi](https://www.linkedin.com/in/srivatsa-gunturi)
+- **LinkedIn**: <a href="https://www.linkedin.com/in/srivatsa-gunturi" rel="noopener noreferrer" target="_blank">linkedin.com/in/srivatsa-gunturi</a>
 
 ## Summary
 
