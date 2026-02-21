@@ -7,7 +7,6 @@ permalink: /resume/
 ## Contact
 
 - **Name**: Srivatsa Gunturi  
-- **Email**: skk.gunturi@gmail.com  
 - **LinkedIn**: [linkedin.com/in/srivatsa-gunturi](https://www.linkedin.com/in/srivatsa-gunturi)
 
 ## Summary
