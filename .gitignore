@@ -1,0 +1,5 @@
+# Resume source (keep only the built resume on the site)
+*.docx
+
+# macOS
+.DS_Store

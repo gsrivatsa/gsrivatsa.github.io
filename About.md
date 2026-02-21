@@ -4,5 +4,9 @@ title: About
 permalink: /about/
 theme: jekyll-theme-slate
 ---
-Hi, My name is Srivatsa Gunturi. I have been working as a design engineer at Intel Corporation from May, 2016. Before this, I was a graduate student at the University of Texas at Dallas. I am currently working in FPGA group at Intel, where my work is in the intersection of HW/SW. My work involves designing System Verilog Models of Hardened Transciever Subsystems in FPGA Devices that gets shipped with Intel Quartus Prime tool and sometimes also involves in designing software models of hardened IP blocks that Quartus Tool uses as the database to run its algorithms to configure the FPGA Transceiver Susystem.
 
+Hi, I'm **Srivatsa Gunturi**—a design engineer with **9 years of experience** in ASIC/IP RTL design, micro-architecture, and SoC integration.
+
+I'm at **Intel Corporation** (Santa Clara), where I'm an **IP Logic Design Engineer** in Security IP: RTL and micro-architecture for PUF, key exchange, ECC, TRNG, and related features; IP integration and pre/post-silicon validation. Before that I was a **SoC Design Engineer** in FPGA Transceivers, developing SystemVerilog models for hardened transceivers and integrating them into Quartus.
+
+**MS in Electrical Engineering** (VLSI), UT Dallas · **B.Tech in ECE**, Amrita Vishwa Vidyapeetham. Reach me at **skk.gunturi@gmail.com** or [LinkedIn](https://www.linkedin.com/in/srivatsa-gunturi).
